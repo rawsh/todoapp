@@ -74,6 +74,7 @@ body {
     padding: 12px;
     margin-bottom: 10px;
     color: #8c8c8c;
+    line-height: 30px;
 }
 
 .new-task::-webkit-input-placeholder { /* WebKit, Blink, Edge */
