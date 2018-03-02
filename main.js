@@ -139,7 +139,7 @@ if (localtasks === null) {
 window.onload = function() {
     var img1920 = new Image();
     img1920.onload = function () {
-        document.getElementsByTagName('body')[0].style.backgroundImage = '#b0c2d6 url(backgrounds/ocean/1920x1080.jpg)';
+        document.getElementsByTagName('body')[0].style.backgroundImage = 'url(backgrounds/ocean/1920x1080.jpg)';
     };
     img1920.src = 'backgrounds/ocean/1920x1080.jpg';
 }
